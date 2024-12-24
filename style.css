@@ -8,7 +8,7 @@ body {
 button {
     background: transparent;
     position: relative;
-    padding: 15px;/*padding: 5px 15px;*/
+    padding: 15px;
     display: flex;
     align-items: center;
     font-size: 17px;
@@ -40,7 +40,7 @@ button {
     display: block;
     width: 20em;
     height: 20em;
-    left: -146px;/*left: -5em;*/
+    left: -146px;
     text-align: center;
     transition: box-shadow 0.5s ease-out;
     z-index: -1;
